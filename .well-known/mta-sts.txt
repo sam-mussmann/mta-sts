@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: mx.runbox.com
+mx: aibo.runbox.com
+mx: mail.tutanota.de
+max_age: 86400
